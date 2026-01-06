@@ -1,0 +1,16 @@
+# Data
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# JAR
+*.jar
+
+# Spark
+spark/__pycache__/
